@@ -1,4 +1,4 @@
-# Golang Projects - GO RESTFUL API
+## Golang Project - GO RESTFUL API
 
 ### This project illustrates the complete CRUD functionality of a go RESTFUL API
 - Add a book
